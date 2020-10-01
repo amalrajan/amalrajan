@@ -4,7 +4,8 @@
 
 🌱 I’m currently learning Data Structures and Algorithms\
 📫 How to reach me: amalrajan74@gmail.com\
-😄 Pronouns: He/Him 
+😄 Pronouns: He/Him \
+🏫 Final year undergraduate at VIT-AP University
 
 <!--
 **amalrajan/amalrajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
